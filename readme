@@ -1,1 +1,2 @@
-hlo this is a demo page developed for testing api 
+///this table fetches data from the endpoint and the display it inside the table and if any name is searched in search bar then info according to that specific name will be coming on the top  
+//If a row is selected then a modal will open displaying the email and address of that specific username which is selected
